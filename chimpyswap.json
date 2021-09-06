@@ -189,10 +189,10 @@
     {
       "name": "ChimpySwap Token",
       "symbol": "CHIMPY",
-      "address": "0x856c0f9bdd671c1fb07eef9b5f01544e35e14a16",
+      "address": "0x026a3918a6d6f7b7b1b6887b8b650143b5d04732",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://exchange.chimpyswap.com/images/coins/0x856c0f9bdd671c1fb07eef9b5f01544e35e14a16.png"
+      "logoURI": "https://exchange.chimpyswap.com/images/coins/0x026a3918a6d6f7b7b1b6887b8b650143b5d04732.png"
     },
     {
       "name": "Ankr",
